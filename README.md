@@ -23,3 +23,19 @@ The notes only sort out some important and difficult-to-understand knowledge poi
 
 #### zh_CN 中文
 [README_CN](https://github.com/ljq/jackliu-c-notes/tree/master/zh_CN)
+
+
+### Directory
+
+```
+├── EN
+├── LICENSE
+├── README.md
+└── zh_CN
+    ├── data-type.md
+    ├── io-format.md
+    ├── macro.md
+    └── standard-ansi-lib.md
+
+2 directories, 6 files
+```
