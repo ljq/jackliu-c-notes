@@ -10,7 +10,7 @@
 | Email-02 | jackliu8909@gmail.com |
 | WeChat | labsec |
 | QQ | 404691073 |
-| Blog | https://defense.ink |
+| Blog | http://defense.ink |
 
 ### Remarks
 The notes only sort out some important and difficult-to-understand knowledge points and self-summary in C, and for long-term updates, the basic knowledge is not covered, please refer to the official website. If necessary, please contact me at any time to communicate and discuss, welcome to join the open source world.
