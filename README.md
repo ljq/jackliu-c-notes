@@ -19,10 +19,10 @@ The notes only sort out some important and difficult-to-understand knowledge poi
 ###### The world of programming should be pluralistic, free from any one mindset. 
 
 #### EN English Documents
-[English Documents](https://github.com/ljq/jackliu-c-notes/tree/main/EN)
+[English Documents](./EN)
 
 #### zh_CN 中文
-[README_CN](https://github.com/ljq/jackliu-c-notes/tree/main/zh_CN)
+[README_CN](./zh_CN)
 
 
 ### Directory
