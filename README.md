@@ -6,7 +6,8 @@
 | Item  | Contact |
 | :------ | :---------- |
 | Author | Jack Liu |
-| Email | stackC@163.com |
+| Email-01 | stackgo@163.com |
+| Email-02 | jackliu8909@gmail.com |
 | WeChat | labsec |
 | QQ | 404691073 |
 | Blog | https://defense.ink |
