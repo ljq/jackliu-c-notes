@@ -1,6 +1,6 @@
 # Jack Liu's C personal summary combing notes
 
-#### Jack Liu's C personal summary notes C
+#### Jack Liu's C language personal summary notes C
 
 #### Jack Liu's contact
 | Item  | Contact |
